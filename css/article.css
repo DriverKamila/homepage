@@ -1,0 +1,24 @@
+.article {
+    max-width: 700px;
+    padding: 20px;
+    box-shadow: 3px 3px 8px rgb(245, 201, 149);
+    margin: 10% auto;
+    background: rgb(248, 225, 142);
+}
+
+.article__header {
+    font-weight: 900;
+    font-size: 40px;
+    font-style: italic;
+    color: rgb(66, 93, 109);
+}
+
+.article__paragraph {
+    color:rgb(6, 39, 100);
+}
+
+.article__paragraph--highlighted {
+    color:rgb(68, 68, 98);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}

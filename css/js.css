@@ -1,0 +1,18 @@
+.js-field {
+    width: 300px;
+    display: inline-block;
+}
+
+.js-message {
+    width: 400px;
+    display: inline-block;
+}
+
+.js-phone {
+    width: 200px;
+    display: inline-block;
+}
+
+.js-replay {
+    margin: 5%;
+}

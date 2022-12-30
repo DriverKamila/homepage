@@ -1,0 +1,14 @@
+.elementTable {
+    margin: 5% 15%;
+}
+
+.table {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-collapse: collapse;
+}
+
+.tableCell {
+    border: 1px solid rgb(116, 43, 55);
+    padding: 5px;
+    text-align: center;
+}
