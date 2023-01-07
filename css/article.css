@@ -14,17 +14,11 @@
 }
 
 .article__paragraph {
-    color:rgb(6, 39, 100);
+    color: rgb(6, 39, 100);
 }
 
 .article__paragraph--highlighted {
-    color:rgb(68, 68, 98);
+    color: rgb(68, 68, 98);
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 15px;
-}
-
-.image {
-    margin: auto 20%;
-    border-radius: 10%;
-    border: 5px solid black;
 }
