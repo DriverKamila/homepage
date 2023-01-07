@@ -25,3 +25,8 @@ html {
 .hidden {
     display: none;
 }
+
+.image {
+    margin: 5% 25%;
+    border-radius: 10%;
+}
