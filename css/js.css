@@ -1,15 +1,15 @@
 .js-field {
-    width: 300px;
+    max-width: 300px;
     display: inline-block;
 }
 
 .js-message {
-    width: 400px;
+    max-width: 400px;
     display: inline-block;
 }
 
 .js-phone {
-    width: 200px;
+    max-width: 200px;
     display: inline-block;
 }
 
