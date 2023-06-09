@@ -9,11 +9,11 @@ html {
 }
 
 .background {
-    background-color: rgb(249, 249, 199);
+    background-color: rgb(244, 244, 225);
 }
 
 .darkBackground {
-    background-color: rgb(122, 104, 73);
+    background-color: rgb(100, 100, 98);
 }
 
 .button {
@@ -29,4 +29,8 @@ html {
 .image {
     margin: 5% 25%;
     border-radius: 10%;
+}
+
+.bigLetters {
+    text-transform: uppercase;
 }
