@@ -9,7 +9,7 @@ html {
 }
 
 .background {
-    background-color: rgb(244, 244, 225);
+    background-color: rgb(202, 202, 202);
 }
 
 .darkBackground {
@@ -33,8 +33,4 @@ html {
 
 .bigLetters {
     text-transform: uppercase;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 9ee5c9836e48d1091cf5c65b7ce14d05d35d2380
