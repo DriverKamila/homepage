@@ -1,9 +1,9 @@
 .article {
     max-width: 700px;
     padding: 20px;
-    box-shadow: 3px 3px 8px rgb(245, 201, 149);
+    box-shadow: 3px 3px 8px rgb(182, 182, 182);
     margin: 10% auto;
-    background: rgb(248, 225, 142);
+    background: rgb(205, 205, 205);
 }
 
 .article__header {
