@@ -1,16 +1,16 @@
 .element {
     margin: 10%;
     color: black;
-    
+    list-style-type: none;
 }
 
 .nav_listItem {
     padding: 5px 2px;
-    text-align: center;
+    text-align: left;
     font-family: Arial, Helvetica, sans-serif;
 
 }
 
 .nav_anchor {
-    color: rgb(27, 7, 103);
+    color: rgb(9, 5, 24);
 }

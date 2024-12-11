@@ -1,7 +1,7 @@
 .article {
     max-width: 700px;
     padding: 20px;
-    box-shadow: 3px 3px 8px rgb(182, 182, 182);
+    box-shadow: 3px 3px 8px rgb(66, 93, 109);
     margin: 10% auto;
     background: rgb(205, 205, 205);
 }
@@ -10,7 +10,7 @@
     font-weight: 900;
     font-size: 40px;
     font-style: italic;
-    color: rgb(66, 93, 109);
+    color: rgb(182, 182, 182);
 }
 
 .article__paragraph {
